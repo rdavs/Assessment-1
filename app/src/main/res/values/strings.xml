@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name" translatable="false">KALRUMBADA</string>
+    <string name="tentang_aplikasi" translatable="false">Tentang Aplikasi</string>
+    <string name="input_invalid" translatable="false">Tidak boleh kosong.</string>
+    <string name="copyright" translatable="false">Aplikasi penghitung luas dan
+        keliling bangun datar seperti persegi, persegi panjang,
+        lingkaran, dan segitiga.\n\nAplikasi ini dibuat untuk
+        Assessment 1.\n\nCopyright © 2024 Riffqi Dava Sundara.\nAll rights reserved.</string>
+    <string name="jari_jari" translatable="false">Jari jari</string>
+    <string name="lingkaran_intro" translatable="false">Lingkaran adalah sosok bidang yang dibatasi oleh satu
+        garis lengkung, dan sedemikian rupa sehingga semua garis lurus yang ditarik dari
+        titik tertentu di dalamnya ke garis pembatas, adalah sama.</string>
+    <string name="kembali" translatable="false">Kembali</string>
+    <string name="segitiga" translatable="false">Segitiga</string>
+    <string name="persegi_panjang" translatable="false">Persegi Panjang</string>
+    <string name="persegi" translatable="false">Persegi</string>
+    <string name="lingkaran" translatable="false">Lingkaran</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="kalrumbada_intro" translatable="false">Mari hitung luas dan keliling bangun datar pilihanmu!</string>
+    <string name="luas_lingkaran" translatable="false">Luas</string>
+    <string name="keliling_lingkaran" translatable="false">Keliling</string>
+    <string name="hitung" translatable="false">Hitung</string>
+    <string name="panjang" translatable="false">Panjang</string>
+    <string name="lebar" translatable="false">Lebar</string>
+    <string name="luas_persegi_panjang" translatable="false">Luas</string>
+    <string name="keliling_persegi_panjang" translatable="false">Keliling</string>
+    <string name="persegi_panjang_intro" translatable="false">Persegi panjang adalah bangun datar dua dimensi
+        yang memiliki empat sudut siku-siku dan dua pasang sisi yang sama panjang dan sejajar.</string>
+    <string name="luas_persegi" translatable="false">Luas</string>
+    <string name="keliling_persegi" translatable="false">Keliling</string>
+    <string name="persegi_intro" translatable="false">Persegi adalah bangun datar dua dimensi yang memiliki
+        empat sisi sama panjang, empat sudut siku-siku, dan empat sudut. Persegi juga
+        disebut segi empat atau poligon bersisi 4.</string>
+    <string name="sisi" translatable="false">Panjang sisi</string>
+    <string name="alas" translatable="false">Alas</string>
+    <string name="tinggi" translatable="false">Tinggi</string>
+    <string name="luas_segitiga" translatable="false">Luas</string>
+    <string name="keliling_segitiga" translatable="false">Keliling</string>
+    <string name="segitiga_intro" translatable="false">Segitiga adalah bangun datar yang memiliki tiga
+        sisi dan tiga titik sudut. Segitiga dapat memiliki panjang atau besar sisi
+        dan sudut yang sama atau berbeda-beda. Tetapi kali ini kita akan
+        menggunakan segitiga sama sisi.</string>
+    <string name="bagikan_template_luas_lingkaran" translatable="false">Jari-jari lingkaran: %1$ scm\nLuas lingkaran: %2$.2f cm²</string>
+    <string name="bagikan_template_keliling_lingkaran" translatable="false">Jari-jari lingkaran: %1$s cm\nKeliling lingkaran: %2$.2f cm²</string>
+    <string name="bagikan_template_luas_persegi" translatable="false">Sisi persegi: %1$s cm\nLuas persegi: %2$.2f cm²</string>
+    <string name="bagikan_template_keliling_persegi" translatable="false">Sisi persegi: %1$s cm\nKeliling persegi: %2$.2f cm</string>
+    <string name="bagikan_template_luas_persegi_panjang" translatable="false">Panjang persegi panjang: %1$s cm\nLebar persegi panjang: %2$s cm\nLuas persegi panjang: %3$.2f cm²</string>
+    <string name="bagikan_template_keliling_persegi_panjang" translatable="false">Panjang persegi panjang: %1$s cm\nLebar persegi panjang: %2$s cm\nKeliling persegi panjang: %3$.2f cm</string>
+    <string name="bagikan_template_luas_segitiga" translatable="false">Alas segitiga: %1$s cm\nTinggi segitiga: %2$s cm\nLuas segitiga: %3$.2f cm²</string>
+    <string name="bagikan_template_keliling_segitiga" translatable="false">Alas segitiga: %1$s cm\nKeliling segitiga: %2$.2f cm</string>
+    <string name="bagikan_lingkaran" translatable="false">Bagikan</string>
+    <string name="bagikan_persegi" translatable="false">Bagikan</string>
+    <string name="bagikan_persegi_panjang" translatable="false">Bagikan</string>
+    <string name="bagikan_segitiga" translatable="false">Bagikan</string>
+</resources>
